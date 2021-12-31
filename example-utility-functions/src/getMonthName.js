@@ -1,5 +1,5 @@
 function getMonthName(place){
 	cont months=[
-		'jenuary','february','march','april'
+		'jenuary','february','march','april','may','june'
 	]
 }
